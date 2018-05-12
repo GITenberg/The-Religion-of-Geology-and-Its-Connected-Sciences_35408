@@ -1,0 +1,28 @@
+_repo: The-Religion-of-Geology-and-Its-Connected-Sciences_35408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hitchcock, Edward
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '37655'
+    url: http://www.gutenberg.org/2009/agents/37655
+description: ''
+gutenberg_issued: '2011-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35408'
+  lccn: '38020497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Religion and science'
+- !lcsh 'Bible and geology'
+title: The Religion of Geology and Its Connected Sciences
+url: http://www.gutenberg.org/ebooks/35408
